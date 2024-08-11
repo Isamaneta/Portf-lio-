@@ -1,0 +1,85 @@
+ 
+    body {
+        text-align: center;
+        background-color: rgba(255, 153, 0, 0.452);
+        }
+
+    /*Caixa de preenchimento formulário*/
+    .caixaformulario {
+        border-radius: 05px;
+        width: 350px; /* Largura da imagem */
+        height: 350px; /* Altura da imagem */
+        position: absolute;
+        text-align: left;
+        right: 800px;
+       }
+        
+    header {
+             
+       background-color: coral;
+       padding: 30px;
+       font-size: 20px;
+       justify-content: center;
+       }
+      
+       li {
+        display:inline;
+        padding: 100px;
+       }    
+
+     h1 {
+        font-size: 30px;
+        margin:0 0 16px 0;
+        width: 100%;
+        text-align: center;
+       }
+
+     p {
+        font-size: 18px;
+        margin:0 0 16px 0;
+        width: 100%;
+        text-align: center;
+       }
+
+     nav {
+        display: block;
+        unicode-bidi: isolate;
+        }
+
+    .menu {
+        grid-column: 6;
+        grid-column-end: 12;
+       
+        }
+
+    sobre-mim {
+        position: absolute;
+        font-size: 15px;
+        font-style: italic;
+        top: 0px;
+        z-index: 2;
+        }
+      
+    formacao-educacional {
+        position: absolute;
+        font-size: 15px;
+        font-style: italic;
+        top: 0px;
+        z-index: 2;
+        color: Navy;
+        }
+
+    idiomas {
+        font-size: 20px;
+        }
+
+    contatos {
+       font-size:20px;
+    }
+
+  
+    
+    
+
+
+  
